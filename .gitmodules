@@ -1,0 +1,6 @@
+[submodule "www/twister-lib-js"]
+	path = www/twister-lib-js
+	url = https://github.com/Tschaul/twister-lib-js.git
+[submodule "www/twister-react"]
+	path = www/twister-react
+	url = https://github.com/Tschaul/twister-react.git
